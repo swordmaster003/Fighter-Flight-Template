@@ -11,10 +11,8 @@ The Fighter Flight Template is a flight simulation template which can help you c
 ## Download
 
 You can download this asset from Unity Asset Store:
-[Fighter Flight Template](https://assetstore.unity.com/packages/templates/systems/fighter-flight-template-151693
-)
+[Fighter Flight Template](https://assetstore.unity.com/packages/templates/systems/fighter-flight-template-151693)
 
 ## Online Documents:
 
-[Fighter Flight Template Manual](https://www.swordmaster.info/documents/unity-assets-documents/fighter-complete-template-manual/
-)
+[Fighter Flight Template Manual](https://www.swordmaster.info/documents/unity-assets-documents/fighter-complete-template-manual)
