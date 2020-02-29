@@ -13,6 +13,16 @@ The Fighter Flight Template is a flight simulation template which can help you c
 You can download this asset from Unity Asset Store:
 [Fighter Flight Template](https://assetstore.unity.com/packages/templates/systems/fighter-flight-template-151693)
 
+## Control
+
+<center>Control On PC:</center>
+
+![image](https://github.com/swordmaster003/Fighter-Flight-Template/blob/master/Screenshots/ControlOnPC.png)
+
+<center>Control On Mobile:</center>
+
+![image](https://github.com/swordmaster003/Fighter-Flight-Template/blob/master/Screenshots/ControlOnMobile.png)
+
 ## Online Documents:
 
 [Fighter Flight Template Manual](https://www.swordmaster.info/documents/unity-assets-documents/fighter-complete-template-manual)
