@@ -4,7 +4,7 @@ The Fighter Flight Template is a flight simulation template which can help you c
 
 ![image](https://github.com/swordmaster003/Fighter-Flight-Template/blob/master/Screenshots/Cover.png)
 
-## Support Unity versions
+## Support Unity Versions
 
 5.6.6 or higher
 
