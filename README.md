@@ -36,8 +36,6 @@ You can download this asset from Unity Asset Store:
 
   ![image](https://github.com/swordmaster003/Fighter-Flight-Template/blob/master/Screenshots/HUD.png)
 
-- The custom editor of each script system on the fighter has been carefully designed.Their appearance is neat and friendly.
-
 - Changing the appearance of the fighter with just one click, and switch to any of the 40 fighter models provided by this package,
   including 20 US fighters, 12 EU fighters, and 8 Russian fighters.
 
@@ -58,6 +56,8 @@ You can download this asset from Unity Asset Store:
   Each environment is made up of nine terrain blocks which are generated from map data exported by Bing Map.
 
   ![image](https://github.com/swordmaster003/Fighter-Flight-Template/blob/master/Screenshots/Environment2.png)
+
+- The custom editor of each script system on the fighter has been carefully designed.Their appearance is neat and friendly.
 
 - Detailed documentation
 
