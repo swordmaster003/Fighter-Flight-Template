@@ -50,15 +50,15 @@ You can download this asset from Unity Asset Store:
   
   If you want to switch the appearance of the fighter to your own imported model, just follow the steps on the documentation to switch.
 
- ![image](https://github.com/swordmaster003/Fighter-Flight-Template/blob/master/Screenshots/Switcher.png)
+  ![image](https://github.com/swordmaster003/Fighter-Flight-Template/blob/master/Screenshots/Switcher.png)
 
 - Include two big and beautiful environments,they are the Alps Mountain,and the Atacama Desert.
 
- ![image](https://github.com/swordmaster003/Fighter-Flight-Template/blob/master/Screenshots/Environment1.png)
+  ![image](https://github.com/swordmaster003/Fighter-Flight-Template/blob/master/Screenshots/Environment1.png)
 
   Each environment is made up of nine terrain blocks which are generated from map data exported by Bing Map.
 
- ![image](https://github.com/swordmaster003/Fighter-Flight-Template/blob/master/Screenshots/Environment2.png)
+  ![image](https://github.com/swordmaster003/Fighter-Flight-Template/blob/master/Screenshots/Environment2.png)
 
   You can create your own fighter flying game based on either of these two scenes.
 
